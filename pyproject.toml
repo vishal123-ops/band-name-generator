@@ -1,0 +1,8 @@
+[project]
+name = "band-name"
+version = "0.1.0"
+description = "if you are confused to choose a name use this platform to choose onr"
+requires-python = ">=3.13"
+dependencies = []
+
+
